@@ -1,30 +1,59 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Vinod%20Jat&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3C72,50:2A5298,100:4CA1AF&text=Vinod%20Jat&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vinod+Jat;Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices;Always+Learning+New+Technologies+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Vinod+Jat;Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices;Backend+Developer;Always+Learning+Something+New+🚀"/>
 
 </div>
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-- 💼 Full Stack Java Developer
-- ☕ Java | Spring Boot | Microservices
+I'm **Vinod Jat**, a passionate Full Stack Java Developer who enjoys building scalable backend systems and modern web applications.
+
+- 💻 Full Stack Java Developer
+- ☕ Spring Boot & Microservices
 - 🐳 Docker Enthusiast
-- 🌱 Currently learning Cloud & System Design
-- 📫 **vinodjat8818@gmail.com**
+- 📚 Learning System Design
+- 🚀 Open Source Learner
+
+---
+
+# ☕ Developer Profile
+
+```java
+public class VinodJat {
+
+    String role = "Full Stack Java Developer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Git",
+        "Swagger"
+    };
+
+    boolean lovesCoding = true;
+
+    public String lifeGoal() {
+        return "Build scalable applications.";
+    }
+
+}
+```
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,mysql,postgres,docker,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,mysql,postgres,docker,git,github,vscode,idea"/>
 
-</p>
-
-<p align="center">
+<br>
 
 <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
@@ -32,46 +61,112 @@
 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Currently Working On
 
-| Project | Description |
-|----------|-------------|
-| 📋 Task Management System | Spring Boot CRUD Application |
-| ☁️ Spring Cloud Config Server | Configuration Management |
-| 🚚 Real-Time Order Tracking | Microservices Project |
-| 🎬 BookMyShow Clone | Movie Booking System |
-| 🌐 Portfolio | Personal Portfolio Website |
+- 🚀 Spring Boot Microservices
+- 🐳 Docker Containers
+- 🔐 Spring Security + JWT
+- 📦 REST APIs
+- ☁️ Cloud Deployment
 
 ---
 
-# 📫 Connect With Me
+# 📂 Featured Projects
 
-<p align="center">
+### 📋 Task Management System
 
-<a href="mailto:vinodjat8818@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+✔ Spring Boot
 
-<a href="https://www.linkedin.com/in/vinod-jat-b83170320">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+✔ Spring Security
 
-</p>
+✔ JWT Authentication
+
+✔ MySQL
+
+---
+
+### ☁️ Spring Cloud Config Server
+
+✔ Centralized Configuration
+
+✔ Spring Cloud
+
+✔ Microservices
+
+---
+
+### 🚚 Real-Time Order Tracking
+
+✔ Event Driven Architecture
+
+✔ REST APIs
+
+✔ PostgreSQL
+
+---
+
+### 🎬 BookMyShow Clone
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+---
+
+# 📈 Coding Journey
+
+```text
+2023  █████████░░░ Started Java
+
+2024  ███████████████ Spring Boot
+
+2025  █████████████████████ Microservices
+
+2026  █████████████████████████ Cloud & DevOps
+```
+
+---
+
+# 🏆 Goals
+
+- ✅ Become a Java Backend Expert
+- ✅ Master Spring Cloud
+- ✅ Learn Kubernetes
+- 🔄 Contribute to Open Source
+- 🔄 AWS Certification
+
+---
+
+# 💡 Favourite Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+# 📫 Contact
+
+📧 **vinodjat8818@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/vinod-jat-b83170320
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Vinod-Jat-dollop&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Vinod-Jat-dollop&style=for-the-badge)
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4CA1AF,50:2A5298,100:1E3C72"/>
 
 </div>

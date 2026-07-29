@@ -1,46 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Vinod%20Jat&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vinod%20Jat&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vinod+Jat;Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;Microservices+Enthusiast;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=36BCF7&lines=Hi+👋,+I'm+Vinod+Jat;Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices;Always+Learning+New+Technologies+🚀"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```java
-public class Vinod {
+public class VinodJat {
 
     String role = "Full Stack Java Developer";
+
+    String currentFocus = "Spring Boot Microservices";
 
     String[] backend = {
         "Java",
         "Spring Boot",
-        "Spring Security",
         "Microservices"
-    };
-
-    String[] frontend = {
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS"
     };
 
     String[] database = {
         "MySQL",
-        "PostgreSQL",
-        "MongoDB"
+        "PostgreSQL"
     };
 
     String[] tools = {
         "Docker",
-        "Git",
         "Postman",
+        "Swagger",
+        "Git",
+        "GitHub",
         "VS Code",
-        "IntelliJ"
+        "IntelliJ IDEA"
     };
 
 }
@@ -50,99 +45,87 @@ public class Vinod {
 
 # 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,mongodb,docker,git,github,linux,vscode,idea&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,mysql,postgres,docker,git,github,vscode,idea"/>
 
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+</div>
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vinod-Jat-dollop&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinod-Jat-dollop&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod-Jat-dollop&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod-Jat-dollop&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Vinod-Jat-dollop&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vinod-Jat-dollop&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinod-Jat-dollop&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophy
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vinod-Jat-dollop&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</p>
-
-> ⚠️ The snake animation requires a GitHub Action to generate automatically.
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 📋 Task Management System | Spring Boot CRUD application |
-| ☁️ Spring Cloud Config Server | Centralized configuration server |
-| 🎟 BookMyShow Clone | Movie ticket booking project |
-| 📦 Real-Time Order Tracking | Microservices-based tracking |
-| 🌐 Portfolio Website | Personal portfolio |
+|----------|-------------|
+| 📋 Task Management System | Spring Boot CRUD Application |
+| ☁️ Spring Cloud Config Server | Centralized Configuration Server |
+| 🚚 Real-Time Order Tracking | Microservices Architecture |
+| 🎬 BookMyShow Clone | Movie Ticket Booking Application |
+| 🌐 Portfolio Website | Personal Portfolio |
 
 ---
 
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
+# 📫 Connect With Me
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Vinod-Jat-dollop&color=blue&style=for-the-badge)
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-url">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -150,6 +133,14 @@ public class Vinod {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+![](https://komarev.com/ghpvc/?username=Vinod-Jat-dollop&style=for-the-badge&color=0e75b6)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
 </div>

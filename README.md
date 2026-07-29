@@ -1,22 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Vinod%20Jat&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Vinod%20Jat&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vinod+Jat;Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices;Backend+Developer;Always+Learning+New+Technologies+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vinod+Jat;Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices;Backend+Developer;Always+Learning+New+Technologies+🚀"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-I'm a passionate **Full Stack Java Developer** who enjoys designing scalable backend systems and building modern web applications.
+I'm **Vinod Jat**, a passionate **Full Stack Java Developer** who enjoys designing scalable backend systems and building modern web applications.
 
-- ☕ Full Stack Java Developer
-- 🚀 Spring Boot & Microservices
-- 🐳 Docker Enthusiast
-- 📚 Learning System Design & Cloud
-- 💡 Passionate about clean architecture
+- 💼 Full Stack Java Developer
+- ☕ Spring Boot Developer
+- 🚀 Microservices Enthusiast
+- 🐳 Docker Learner
+- 🌱 Currently learning Cloud & System Design
+- 💡 Always exploring new technologies
 
 ---
 
@@ -25,36 +26,38 @@ I'm a passionate **Full Stack Java Developer** who enjoys designing scalable bac
 ```java
 public class VinodJat {
 
-    private final String role = "Full Stack Java Developer";
+    String role = "Full Stack Java Developer";
 
     String[] backend = {
-            "Java",
-            "Spring Boot",
-            "Microservices"
+        "Java",
+        "Spring Boot",
+        "Microservices"
     };
 
     String[] frontend = {
-            "HTML",
-            "CSS"
+        "HTML",
+        "CSS"
     };
 
     String[] database = {
-            "MySQL",
-            "PostgreSQL"
+        "MySQL",
+        "PostgreSQL"
     };
 
     String[] tools = {
-            "Docker",
-            "Git",
-            "GitHub",
-            "Postman",
-            "Swagger",
-            "VS Code",
-            "IntelliJ IDEA"
+        "Docker",
+        "Git",
+        "GitHub",
+        "Postman",
+        "Swagger",
+        "VS Code",
+        "IntelliJ IDEA"
     };
 
-    public void sayHello() {
-        System.out.println("Welcome to my GitHub Profile 🚀");
+    boolean learning = true;
+
+    public void code() {
+        System.out.println("Eat → Code → Learn → Repeat");
     }
 
 }
@@ -80,42 +83,83 @@ public class VinodJat {
 
 ---
 
-# 🚀 Current Focus
+# 💼 Current Focus
 
-- 🔹 Spring Boot
-- 🔹 Microservices
-- 🔹 REST APIs
-- 🔹 Docker
-- 🔹 PostgreSQL
-- 🔹 System Design
+✔ Spring Boot
+
+✔ Spring Security
+
+✔ REST APIs
+
+✔ JWT Authentication
+
+✔ Microservices
+
+✔ Docker
+
+✔ PostgreSQL
+
+✔ Clean Architecture
 
 ---
 
 # 📂 Featured Projects
 
-| 🚀 Project | 💻 Tech |
-|------------|---------|
-| 📋 Task Management System | Spring Boot, MySQL |
-| ☁️ Spring Cloud Config Server | Spring Cloud |
-| 🚚 Real-Time Order Tracking | Microservices |
-| 🎬 BookMyShow Clone | HTML, CSS |
-| 🌐 Portfolio Website | HTML, CSS |
+### 📋 Task Management System
+
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- MySQL
 
 ---
 
-# 🎯 Goals
+### ☁️ Spring Cloud Config Server
+
+- Spring Cloud
+- Configuration Management
+- Distributed Systems
+
+---
+
+### 🚚 Real-Time Order Tracking System
+
+- Microservices
+- REST APIs
+- PostgreSQL
+
+---
+
+### 🎬 BookMyShow Clone
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### 🌐 Portfolio Website
+
+- Responsive UI
+- HTML
+- CSS
+
+---
+
+# 🎯 2026 Goals
 
 - ✅ Master Spring Boot
-- ✅ Build Production-Ready Microservices
+- ✅ Master Microservices
 - 🔄 Learn Kubernetes
 - 🔄 Learn AWS
-- 🔄 Contribute to Open Source
+- 🔄 Open Source Contributions
+- 🔄 Build Scalable Enterprise Applications
 
 ---
 
-# 💬 Favorite Quote
+# 💬 Favourite Quote
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+> **"First, solve the problem. Then, write the code."**
 
 ---
 
@@ -135,7 +179,7 @@ public class VinodJat {
 
 ---
 
-# 👀 Visitors
+# 👀 Profile Visitors
 
 <div align="center">
 
@@ -161,6 +205,6 @@ public class VinodJat {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=24,20,12"/>
 
 </div>

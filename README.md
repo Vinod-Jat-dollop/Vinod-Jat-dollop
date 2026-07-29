@@ -189,11 +189,15 @@ public class VinodJat {
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vinod-Jat-dollop/Vinod-Jat-dollop/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
+
+> ⚠️ The snake animation requires a GitHub Action to generate automatically.
 
 ---
 
